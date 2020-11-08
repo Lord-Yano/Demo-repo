@@ -7,3 +7,5 @@ This is the second line of text depicting the Update commit message and allowing
 ## This is a subheader shortcut
 
 Some text.
+
+## This is the second subheader
